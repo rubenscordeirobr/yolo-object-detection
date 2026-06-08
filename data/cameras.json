@@ -1,0 +1,26 @@
+[
+    {
+        "tenant_id": "01",
+        "camera_name": "Cam 01",
+        "ip_address": "192.168.3.81",
+        "port": "554",
+        "username": "admin",
+        "password": ""
+    },
+    {
+        "tenant_id": "01",
+        "camera_name": "Cam 02",
+        "ip_address": "192.168.3.82",
+        "port": "554",
+        "username": "admin",
+        "password": ""
+    },
+    {
+        "tenant_id": "01",
+        "camera_name": "Cam 03",
+        "ip_address": "192.168.3.83",
+        "port": "554",
+        "username": "admin",
+        "password": ""
+    }
+]
